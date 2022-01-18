@@ -1,6 +1,3 @@
-// trebas imati negdje kod koji ce povezati sve,
-// a ne da ti kalkulator ima direktu vezu na dom handler.
-// kalkulator treba samo da radi kalkulaciju, ne treba da zna za bilo kakav domHandler
 
 export class MyCalculator {
   selectOperation(selectedOperation) {
